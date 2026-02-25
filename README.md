@@ -194,10 +194,8 @@ The backend is configured to accept requests from:
 
 Update `@CrossOrigin` in `ExpenseController.java` for additional origins.
 
-## License
 
-MIT
 
 ## Author
 
-Your Name
+Sai Pavan Goud Gundrathi
